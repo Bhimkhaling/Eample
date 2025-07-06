@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhim Rai</h1>
-<h3 align="center">iam little intrested in android</h3>
+<h3 align="center">iam little interested in android</h3>
 
 - 🌱 I’m currently learning **Kotlin,jetpacks**
 
